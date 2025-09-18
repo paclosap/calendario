@@ -1,0 +1,92 @@
+{
+  "Pablo": [
+    {
+      "Fecha": "28/02/2026",
+      "Festividad autonomica": [
+        "Día de Andalucí­a"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "04/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Andalucía",
+        "Provincia": "Almería"
+      }
+    }
+  ],
+  "David": [
+    {
+      "Fecha": "28/02/2026",
+      "Festividad autonomica": [
+        "Dí­a de Andalucí­a"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "12/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Andalucía",
+        "Provincia": "Almería"
+      }
+    }
+  ],
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Andalucía",
+        "Provincia": "Almería"
+      }
+    }
+  ],
+ 
