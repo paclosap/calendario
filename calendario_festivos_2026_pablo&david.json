@@ -31,6 +31,39 @@
       }
     }
   ],
+  "Nacimiento": [
+    {
+      "Fecha": "28/02/2026",
+      "Festividad autonomica": [
+        "Dí­a de Andalucí­a"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Andalucía",
+        "Provincia": "Almería"
+      }
+    }
+  ],
+
     "Moraleja De Enmedio": [
     {
       "Fecha": "02/04/2026",
