@@ -1,0 +1,2438 @@
+{
+  "Allande": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Fiesta de San Antonio"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "Dí­a posterior a la fiesta del Avellano"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Aller": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "Festividad de San Martí­n"
+      ]
+    },
+    {
+      "Fecha": "26/11/2026",
+      "Festividad local": [
+        "Festividad del Mercaón de Cabañaquinta"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Amieva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "San Antonio en Sames"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Santiago en Vis"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Avilés": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "San Agustí­n"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Belmonte De Miranda": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "San Isidro"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "La Gira"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Bimenes": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "20/10/2026",
+      "Festividad local": [
+        "Feries de San Julián"
+      ]
+    },
+    {
+      "Fecha": "04/12/2026",
+      "Festividad local": [
+        "Santa Bárbara"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Boal": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "29/05/2026",
+      "Festividad local": [
+        "Festividad de San Fernando"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festividad de Santiago"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Cabrales": [
+    {
+      "Fecha": "24/01/2026",
+      "Festividad local": [
+        "San Pablo"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "07/07/2026",
+      "Festividad local": [
+        "San Cristóbal"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Cabranes": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "12/05/2026",
+      "Festividad local": [
+        "San Francisco y 46Âº Festival del Arroz con Leche"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "Carmen de Torazu y Jira de Incós"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Candamo": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Las Candelas"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/06/2026",
+      "Festividad local": [
+        "Lunes siguiente al Festival de la Fresa"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Cangas Del Narcea": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Fiesta de El Carmen"
+      ]
+    },
+    {
+      "Fecha": "22/07/2026",
+      "Festividad local": [
+        "Fiesta de La Magdalena"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Cangas De Onís": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Fiesta de San Antonio"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Fiesta del Pastor"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Caravia": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad local": [
+        "Lunes siguiente a Santiago"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "Martes siguiente a la Consolación"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Carreño": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "Festividad de San Félix"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "Festividad de \"El Cristí­n\""
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Caso": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Martes - San Juan"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "08/10/2026",
+      "Festividad local": [
+        "Miércoles - Ferias Ganaderas"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Castrillón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "07/07/2026",
+      "Festividad local": [
+        "Dí­a de Castrillón"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Castropol": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festividad de Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "05/12/2026",
+      "Festividad local": [
+        "Puente de Invierno"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Coaña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Santiago"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Colunga": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "14/07/2026",
+      "Festividad local": [
+        "Festividad de la Virgen de Loreto"
+      ]
+    },
+    {
+      "Fecha": "26/08/2026",
+      "Festividad local": [
+        "Martes de San Roque Lastres"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Corvera De Asturias": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Fiesta de San Juan"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Fiestas Populares de Corvera de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Cudillero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Degaña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "San Roque"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "El Franco": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "Dí­a siguiente a la celebración de la fiesta de Los Remedios"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Dí­a de San Miguel"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Gijón": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Carnaval/Antroxu"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Dí­a siguiente a la festividad de San Pedro"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Gozón": [
+    {
+      "Fecha": "05/02/2026",
+      "Festividad local": [
+        "Fiesta del Cristo del Socorro"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festividad de la Virgen del Carmen"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Grado": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festividad de Santiago"
+      ]
+    },
+    {
+      "Fecha": "26/07/2026",
+      "Festividad local": [
+        "Festividad de Santa Ana"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Grandas De Salime": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "04/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "10/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Ibias": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Lunes, San Donato"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "Martes, Santo Antolí­n"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Illano": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Martes de Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "Festividad de San Agustí­n"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Illas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "San Agustí­n"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Langreo": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Martes de Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festividad de Santiago"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Las Regueras": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Martes de Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Laviana": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Martes de Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Jira"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Lena": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/04/2026",
+      "Festividad local": [
+        "Festividad de la Flor"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "14/10/2026",
+      "Festividad local": [
+        "Festividad de Las Ferias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Llanera": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Festividad del Antroxu"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festividad de San Isidro Labrador"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Llanes": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Mieres": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Martes, festividad de San Juan"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "27/09/2026",
+      "Festividad local": [
+        "Sábado, Mártires de Valdecuna, San Cosme y San Damián"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Morcín": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antón"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Muros De Nalón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festividad de San Antonio"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Ntra. Sra. del Carmen"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Nava": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "14/07/2026",
+      "Festividad local": [
+        "Festival de la Sidra"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "San Bartolomé"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Navia": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Fiesta de Santiago"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "10/09/2026",
+      "Festividad local": [
+        "Jira de Puerto de Vega"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Noreña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/04/2026",
+      "Festividad local": [
+        "Festividad de San Marcos"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "Festividad del Ecce-Homo"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Onís": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "18/07/2026",
+      "Festividad local": [
+        "Santa Marina"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Santiago"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Oviedo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "10/06/2026",
+      "Festividad local": [
+        "Martes de Campo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Lunes posterior a San Mateo"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Parres": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "22/05/2026",
+      "Festividad local": [
+        "Santa Rita de Casia"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad local": [
+        "El Bollí­n"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Pesoz": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "04/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Peñamellera Alta": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/06/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "11/08/2026",
+      "Festividad local": [
+        "La Sacramental de Alles"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Peñamellera Baja": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/05/2026",
+      "Festividad local": [
+        "San Isidro"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "San Cipriano"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Piloña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Ponga": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Pravia": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "19/06/2026",
+      "Festividad local": [
+        "El Corpus"
+      ]
+    },
+    {
+      "Fecha": "06/09/2026",
+      "Festividad local": [
+        "El Cristo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Proaza": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "El Cristo"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Quirós": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad local": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "San Miguel"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Ribadedeva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Ribadesella": [
+    {
+      "Fecha": "03/03/2026",
+      "Festividad local": [
+        "Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "San Juan"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Ribera De Arriba": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "10/06/2026",
+      "Festividad local": [
+        "Dí­a de los Mayores"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "13/12/2026",
+      "Festividad local": [
+        "Santa Lucí­a"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Riosa": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "03/10/2026",
+      "Festividad local": [
+        "Fiesta del Rosario"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Salas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "San Martín Del Rey Aurelio": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "San Martín De Oscos": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Martes de Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "Dí­a de San Martí­n"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Santa Eulalia De Oscos": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Martes de Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "San Tirso De Abres": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festividad de San Isidro"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festividad de San Juan"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Santo Adriano": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "18/07/2026",
+      "Festividad local": [
+        "El Carmen"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Sariego": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Santiago"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "San Pedrí­n"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Siero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "22/04/2026",
+      "Festividad local": [
+        "Huevos Pintos"
+      ]
+    },
+    {
+      "Fecha": "21/07/2026",
+      "Festividad local": [
+        "El Carmí­n"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Sobrescobio": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Ví­spera del dí­a del Trabajo"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festividad San Ginés"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Somiedo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/04/2026",
+      "Festividad local": [
+        "Feria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "Nuestra Señora"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Soto Del Barco": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "San Juan"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "San Pedro"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Tapia De Casariego": [
+    {
+      "Fecha": "03/03/2026",
+      "Festividad local": [
+        "Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festividad de la Virgen del Carmen"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Taramundi": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Martes de Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "Festividad de San Martí­n"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Teverga": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Santiago"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "21/11/2026",
+      "Festividad local": [
+        "La Feriona"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Tineo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "San Roque"
+      ]
+    },
+    {
+      "Fecha": "19/08/2026",
+      "Festividad local": [
+        "Dí­a siguiente al de la última verbena de San Roque"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Valdés": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "Dí­a del Fuero de Valdés"
+      ]
+    },
+    {
+      "Fecha": "22/08/2026",
+      "Festividad local": [
+        "Festividad de San Timoteo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Vegadeo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/06/2026",
+      "Festividad local": [
+        "Viernes de Feria"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Lunes dí­a después de la Jira"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Villanueva De Oscos": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Martes de Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad local": [
+        "Festividad de Santa Ana"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Villaviciosa": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "Fiestas Patronales Nuestra Señora del Portal"
+      ]
+    },
+    {
+      "Fecha": "17/09/2026",
+      "Festividad local": [
+        "Fiestas Patronales Nuestra Señora del Portal"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Villayon": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "Santa Marí­a de Oneta"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ],
+  "Yernes Y Tameza": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/06/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Dí­a de Asturias"
+      ]
+    },
+    {
+      "Fecha": "14/10/2026",
+      "Festividad local": [
+        "El Rosario"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Asturias",
+        "Provincia": "Asturias"
+      }
+    }
+  ]
+}
