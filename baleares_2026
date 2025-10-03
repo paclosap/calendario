@@ -1,0 +1,2296 @@
+{
+  "Eivissa": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "05/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Sant Antoni De Portmany": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Sant Joan De Labritja": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Sant Josep De Sa Talaia": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Santa Eulària Des Riu": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Formentera": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "San Fernando"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "San Jaime"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Alaró": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad autonomica": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Alcúdia": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/07/2026",
+      "Festividad local": [
+        "Virgen de la Victoria"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "San Jaime"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Algaida": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Andratx": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Ariany": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio Abad"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "segunda fiesta Patronal"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Artà": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Banyalbufar": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Binissalem": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "San Jaime"
+      ]
+    },
+    {
+      "Fecha": "26/09/2026",
+      "Festividad local": [
+        "Viernes des Vermar"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Búger": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "San Marcial"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Bunyola": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Calvià": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Campanet": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "22/04/2026",
+      "Festividad local": [
+        "Martes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "San Miguel"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Campos": [
+    {
+      "Fecha": "09/01/2026",
+      "Festividad local": [
+        "San Julián y Santa Basilisa"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/10/2026",
+      "Festividad local": [
+        "Sa Fira"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Capdepera": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Virgen del Carmen"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Consell": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Costitx": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "San Sebastián"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Virgen"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Deià": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "San Juan"
+      ]
+    },
+    {
+      "Fecha": "07/11/2026",
+      "Festividad local": [
+        "dia de la independencia de Deií "
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Escorca": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Esporles": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Estellencs": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Felanitx": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Fornalutx": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Inca": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "30/07/2026",
+      "Festividad local": [
+        "San Abdon i San Senén"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Lloret De Vistalegre": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/08/2026",
+      "Festividad local": [
+        "San Domingo"
+      ]
+    },
+    {
+      "Fecha": "10/12/2026",
+      "Festividad local": [
+        "Virgen de Loreto"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Lloseta": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad local": [
+        "Romerí­a de El Cocó"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Fiestas Patronales"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Llubí": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "22/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Llucmajor": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "San Miquel"
+      ]
+    },
+    {
+      "Fecha": "13/10/2026",
+      "Festividad local": [
+        "Es Firó"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Manacor": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Mancor De La Vall": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "San Juan"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Maria De La Salut": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Virgen de la Salud"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Marratxí": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "San Marcial"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "MontuíRi": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Muro": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "San Juan"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Palma": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "San Sebastián"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Petra": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/07/2026",
+      "Festividad local": [
+        "Santa Prí xedes"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Pollení‡A": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/08/2026",
+      "Festividad local": [
+        "Nuestra Señora de los Ángeles"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Porreres": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Segunda fiesta de Pascua"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "San Roque"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Puigpunyent": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Sa Pobla": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Sant Joan": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "San Juan Bautista"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "Martirio de San Juan Bautista"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Sant Llorení‡ Des Cardassar": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Santa Eugènia": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "04/08/2026",
+      "Festividad local": [
+        "Fiesta Patronal"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Santa Margalida": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Santa Maria Del Camí": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/04/2026",
+      "Festividad local": [
+        "Es Firó"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Santanyí": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Selva": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Sencelles": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Ses Salines": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Sineu": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "25/04/2026",
+      "Festividad local": [
+        "San Marcos"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Sóller": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "12/05/2026",
+      "Festividad local": [
+        "Es Firó"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Son Servera": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Valldemossa": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Vilafranca De Bonany": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "04/12/2026",
+      "Festividad local": [
+        "Santa Bárbara"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Alaior": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "último martes de Carnaval"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Ciutadella": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "San Juan"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Es Castell": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Es Mercadal": [
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Es Migjorn Gran": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "10/07/2026",
+      "Festividad local": [
+        "San Cristóbal"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Ferreries": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio Abad y Diada del Pueblo de Menorca"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/04/2026",
+      "Festividad local": [
+        "Lunes de Pascua"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Maó": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Virgen de Gracia"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ],
+  "Sant Lluís": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "01/03/2026",
+      "Festividad autonomica": [
+        "Dí­a de les Illes Balears"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Virgen de Gracia"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad autonomica": [
+        "San Esteban"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Islas Baleares",
+        "Provincia": "Baleares"
+      }
+    }
+  ]
+}
