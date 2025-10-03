@@ -1,0 +1,6864 @@
+{
+  "Adalia": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Aguasal": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "24/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Aguilar De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Alaejos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Alcazarén": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Aldea De San Miguel": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Aldeamayor De San Martín": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Almenara De Adaja": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "11/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Amusquillo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "12/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Arroyo De La Encomienda": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "06/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Ataquines": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Bahabón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Barcial De La Loma": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "25/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Barruelo Del Valle": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Becilla De Valderaduey": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Benafarces": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Bercero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Berceruelo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "06/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Berrueces": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Bobadilla Del Campo": [
+    {
+      "Fecha": "24/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Bocigas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Bocos De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "05/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Boecillo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "10/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Bolaños De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Brahojos De Medina": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "22/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Bustillo De Chaves": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "24/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Cabezón De Pisuerga": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Cabezón De Valderaduey": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Cabreros Del Monte": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "10/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Campaspero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Camporredondo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Canalejas De Peñafiel": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Casasola De Arión": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "10/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "27/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Castrejon": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "28/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Castrillo-Tejeriego": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Castrillo De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Castrodeza": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Castromembibre": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Castromonte": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "22/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Castronuevo De Esgueva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Castronuño": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Castroponce De Valderauey": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "20/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Castroverde De Cerrato": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "14/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "04/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Ceinos De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "12/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "13/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Cervillego De La Cruz": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Cigales": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "18/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Cigüñuela": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Cogeces Del Monte": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Cogeces De Íscar": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Corcos Del Valle": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Corrales De Duero": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Cubillas De Santa Marta": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Cuenca De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "20/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Curiel De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "El Carpio": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Encinas De Esgueva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Esguevillas De Esgueva": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Fombellida": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Fompedraza": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Foncastín": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Fontihoyuelo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "18/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Fresno El Viejo": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Fuensaldaña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Fuente El Sol": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Fuente Olmedo": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Gallegos De Hornija": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Gatón De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "06/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Geria": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Gordaliza De La Loma": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "24/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Herrín De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "06/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Hornillos De Eresma": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "La Cistérniga": [
+    {
+      "Fecha": "23/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Laguna De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "La Mudarra": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Langayo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "27/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "05/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "La Parrilla": [
+    {
+      "Fecha": "05/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "06/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "La Pedraja De Portillo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "14/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "La Santa Espina": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "La Seca": [
+    {
+      "Fecha": "24/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "14/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "La Unión De Campos": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "La Zarza": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "10/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Llano De Olmedo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "04/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Lomoviejo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Manzanillo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Marzales": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Matapozuelos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "22/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Matilla De Los Caños": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "10/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Mayorga": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "28/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "27/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Medina Del Campo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Medina De Rioseco": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Megeces": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Mojados": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Monasterio De Vega": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Montealegre De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Montemayor De Pililla": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "22/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Moral De La Reina": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Moraleja De Las Panaderas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "26/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Morales De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "28/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Mota Del Marques": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Mucientes": [
+    {
+      "Fecha": "05/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Muriel De Zapardiel": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Nava Del Rey": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "28/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Nueva Villa De Las Torres": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Olivares De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Olmos De Esgueva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Olmos De Peñafiel": [
+    {
+      "Fecha": "16/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Palazuelo De Vedija": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Pedrajas De San Esteban": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "04/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Pedrosa Del Rey": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "27/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "31/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Pesquera De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Peñafiel": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Peñaflor De Hornija": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "19/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Piña De Esgueva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "12/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Piñel De Abajo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Piñel De Arriba": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "06/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "21/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Pollos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Pozal De Gallinas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Pozaldez": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "19/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "20/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Puras": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Quintanilla De Arriba": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Quintanilla Del Molar": [
+    {
+      "Fecha": "28/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Quintanilla De Onésimo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "12/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Quintanilla De Trigueros": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Ramiro": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Renedo De Esgueva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Roales De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "13/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Robladillo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Roturas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Rubí De Bracamonte": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "05/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Rueda": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Rábano": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Saelices De Mayorga": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Salvador De Zapardiel": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Cebrián De Mazote": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Llorente Del Valle": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Martín De Valvení": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Miguel Del Arroyo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Miguel Del Pino": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Pablo De La Moraleja": [
+    {
+      "Fecha": "27/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Pedro De Latarce": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "07/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Pelayo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "06/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Román De Hornija": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "18/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Salvador De Hornija": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "06/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Santa Eufemia Del Arroyo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Santiago Del Arroyo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Santibáñez De Valcorba": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Santovenia De Pisuerga": [
+    {
+      "Fecha": "05/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "San Vicente Del Palacio": [
+    {
+      "Fecha": "22/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Sardón De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Serrada": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "10/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Siete Iglesias De Trabancos": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Simancas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "06/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Tiedra": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "19/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Tordehumos": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Tordesillas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Torrecilla De La Abadesa": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Torrecilla De La Orden": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Torrecilla Del Valle": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Torre De Esgueva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Torre De Peñafiel": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Torrelobatón": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Traspinedo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Trigueros Del Valle": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Tudela De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Urones De Castroponce": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "20/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Urueña": [
+    {
+      "Fecha": "25/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Valbuena De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Valdearcos De La Vega": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Valdenebro De Los Valles": [
+    {
+      "Fecha": "22/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Valdestillas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "10/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Valdunquillo": [
+    {
+      "Fecha": "28/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "14/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Valladolid": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Valoria La Buena": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "11/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Valverde De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "26/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Vega De Ruiponce": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Vega De Valdetronco": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Velascálvaro": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "27/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Velilla": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Velliza": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "12/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Ventosa De La Cuesta": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "24/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Viana De Cega": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villabaruz De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villabrágima": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villacarralón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villacid De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villaco De Esgueva": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "27/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villafrades De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villafranca De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "22/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villafrechós": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villafuerte De Esgueva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "16/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villagarcía De Campos": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villagómez La Nueva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villalar De Los Comuneros": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villalba De Los Alcores": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "19/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "20/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villalbarba": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villalón De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villamarciel": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "05/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villamuriel De Campos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villanubla": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villanueva De Duero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villanueva De La Condesa": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villanueva De Los Caballeros": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villanueva De Los Infantes (Valladolid)": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villardefrades": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "20/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villarmentero De Esgueva": [
+    {
+      "Fecha": "17/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villavaquerín": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villavellid": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "25/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villaverde De Medina": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "08/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villavicencio De Los Caballeros": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villavieja Del Cerro": [
+    {
+      "Fecha": "08/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "09/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Villán De Tordesillas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Viloria": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "20/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Wamba": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Zaratan": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "20/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "03/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ],
+  "Íscar": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/04/2026",
+      "Festividad autonomica": [
+        "Fiesta de Castilla y León"
+      ]
+    },
+    {
+      "Fecha": "13/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Castilla y León",
+        "Provincia": "Valladolid"
+      }
+    }
+  ]
+}
