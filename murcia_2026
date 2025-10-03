@@ -1,0 +1,1712 @@
+{
+  "Abanilla": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Abarán": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "22/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Albudeite": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Alcantarilla": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Alcázares, Los": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "13/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Aledo": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Alguazas": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Alhama De Murcia": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Archena": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "19/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Beniel": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Blanca": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Bullas": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Calasparra": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "30/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Campos Del Río": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Caravaca De La Cruz": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Cartagena": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "11/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "26/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Cehegin": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "10/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Ceutí": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "22/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Cieza (Murcia)": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Fortuna": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Fuente Álamo": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Jumilla": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Librilla": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "22/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Lorca": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "24/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Lorquí": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Mazarron": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "17/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Molina De Segura": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Moratalla": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "11/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Mula": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "23/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Murcia": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "22/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Ojós": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "27/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Pliego": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Puerto Lumbreras": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "07/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Ricote": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "22/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "San Javier": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "03/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "San Pedro Del Pinatar": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Santomera": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Torre Pacheco": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Torres De Cotillas, Las": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "22/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Totana": [
+    {
+      "Fecha": "07/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "10/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Ulea": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Unión, La": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Villanueva Del Río Segura": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Yecla": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ],
+  "Águilas": [
+    {
+      "Fecha": "04/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/03/2026",
+      "Festividad autonomica": [
+        "San José"
+      ]
+    },
+    {
+      "Fecha": "11/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad autonomica": [
+        "Dí­a de la Región de Murcia"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Murcia",
+        "Provincia": "Murcia"
+      }
+    }
+  ]
+}
