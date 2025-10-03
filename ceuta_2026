@@ -1,0 +1,40 @@
+{
+  "Ceuta": [
+    {
+      "Fecha": "31/03/2026",
+      "Festividad autonomica": [
+        "Fiesta de Culminación de Ramadán Eid al-Fitr"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "06/06/2026",
+      "Festividad autonomica": [
+        "Fiesta del Sacrificio-Eidul Adha"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "San Antonio"
+      ]
+    },
+    {
+      "Fecha": "05/08/2026",
+      "Festividad autonomica": [
+        "Nuestra Señora de África"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Ceuta",
+        "Provincia": "Ceuta"
+      }
+    }
+  ]
+}
