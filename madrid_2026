@@ -1,0 +1,6754 @@
+{
+  "Ajalvir": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Alameda Del Valle": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "18/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "26/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Alcalá De Henares": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "06/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Alcobendas": [
+    {
+      "Fecha": "24/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Alcorcón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Aldea Del Fresno": [
+    {
+      "Fecha": "17/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "27/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Algete": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Alpedrete": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "22/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "23/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Ambite": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Anchuelo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "29/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Aranjuez": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "05/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Arganda Del Rey": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Arroyomolinos (Madrid)": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "19/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "20/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Batres": [
+    {
+      "Fecha": "10/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Becerril De La Sierra": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Berzosa De Lozoya": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "05/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Boadilla Del Monte": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "26/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Braojos De La Sierra": [
+    {
+      "Fecha": "22/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Brea De Tajo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Brunete": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Buitrago De Lozoya": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Bustarviejo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Cabanillas De La Sierra": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "20/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "05/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Cadalso De Los Vidrios": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Camarma De Esteruelas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "04/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "05/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Campo Real": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Canencia": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "13/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Carabaña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "12/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Casarrubuelos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "24/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Cenicientos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Cerceda (Madrid)": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Cercedilla": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Cervera De Buitrago": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "22/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Chapinerí­A": [
+    {
+      "Fecha": "03/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Chinchón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "13/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Ciempozuelos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Cobeña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "03/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Collado Mediano": [
+    {
+      "Fecha": "23/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "24/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Collado Villalba": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "24/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Colmenar Viejo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Colmenar De Oreja": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Colmenar Del Arroyo": [
+    {
+      "Fecha": "22/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Colmenarejo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "10/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Corpa": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Coslada": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Cubas De La Sagra": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Daganzo De Arriba": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "El Atazar": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "25/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "El Berrueco": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "12/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "13/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "El Boalo": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "El Escorial": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "11/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "El Espartal": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "13/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "El Molar": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "29/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "El Vellón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "03/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "El Álamo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "02/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Estremera": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "13/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "14/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Fresnedillas De La Oliva": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Fresno De Torote": [
+    {
+      "Fecha": "28/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Fuenlabrada": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Fuente El Saz De Jarama": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Fuentidueña De Tajo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Galapagar": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Garganta De Los Montes": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Gargantilla Del Lozoya Y Pinilla De Buitrago": [
+    {
+      "Fecha": "21/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Gascones": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "04/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Getafe": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "29/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Griñón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "17/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Guadalix De La Sierra": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Guadarrama": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "04/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Horcajo De La Sierra-Aoslos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Horcajuelo De La Sierra": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "05/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Hoyo De Manzanares": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "05/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Humanes De Madrid": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "La Acebeda": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "La Cabrera": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "17/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "La Hiruela": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "24/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "31/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "La Serna Del Monte": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Las Rozas De Madrid": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Leganés": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "10/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Loeches": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "11/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Los Molinos": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Los Santos De La Humosa": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Lozoya": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "06/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Lozoyuela-Navas-Sieteiglesias": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "05/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Madarcos": [
+    {
+      "Fecha": "03/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Madrid": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "10/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Majadahonda": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Manzanares El Real": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Mataelpino": [
+    {
+      "Fecha": "05/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Meco": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "11/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Mejorada Del Campo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "23/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Miraflores De La Sierra": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Moraleja De Enmedio": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Moralzarzal": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "18/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "19/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Morata De Tajuña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Móstoles": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Navacerrada": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Navalafuente": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Navalagamella": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "08/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Navalcarnero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Navarredonda Y San Mames": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Navas Del Rey": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Nuevo Baztán": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "03/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Olmeda De Las Fuentes": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Orusco De Tajuña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "29/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Paracuellos De Jarama": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "10/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Parla": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "23/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Pedrezuela": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Pelayos De La Presa": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Perales De Tajuña": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Pezuela De Las Torres": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Pinilla Del Valle": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Pinto": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Piñuecar-Gandullas": [
+    {
+      "Fecha": "24/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Pozuelo De Alarcón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Pozuelo Del Rey": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Prádena Del Rincón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "10/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Puebla De La Sierra": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Puentes Viejas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "07/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Quijorna": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "26/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Rascafrí­A": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "01/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Redueña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "12/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Ribatejada": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Rivas-Vaciamadrid": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Robledillo De La Jara": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "11/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Robledo De Chavela": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "21/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Robregordo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Rozas De Puerto Real": [
+    {
+      "Fecha": "05/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "San Agustí­N Del Guadalix": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "19/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "San Fernando De Henares": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "29/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "San Lorenzo De El Escorial": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "11/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "San Martí­N De Valdeiglesias": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "San Martí­N De La Vega": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "San Sebastián De Los Reyes": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "28/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Santa Marí­A De La Alameda": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Santorcaz": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Serranillos Del Valle": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "03/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Sevilla La Nueva": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Somosierra": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "04/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Soto Del Real": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "04/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Tielmes": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "06/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Titulcia": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Torrejón De Ardoz": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "23/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Torrejón De Velasco": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "10/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Torrejón De La Calzada": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Torrelaguna": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Torrelodones": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Torremocha De Jarama": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Torres De La Alameda": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "06/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Tres Cantos": [
+    {
+      "Fecha": "21/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdaracete": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdeavero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdelaguna": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdemanco": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdemaqueda": [
+    {
+      "Fecha": "05/03/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdemorillo": [
+    {
+      "Fecha": "03/02/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdemoro": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdeolmos-Alalpardo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdepiélagos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdetorres De Jarama": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valdilecha": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Valverde De Alcalá": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "05/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Velilla De San Antonio": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Venturada": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villaconejos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villa Del Prado": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villalbilla": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "25/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "26/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villamanrique De Tajo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/04/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villamanta": [
+    {
+      "Fecha": "31/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "23/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villamantilla": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "30/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villanueva De Perales": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "05/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "09/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villanueva Del Pardillo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "16/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "17/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villanueva De La Cañada": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villar Del Olmo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villarejo De Salvanés": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villaviciosa De Odón": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Villavieja Del Lozoya": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "05/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ],
+  "Zarzalejo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad autonomica": [
+        "Fiesta de la Comunidad de Madrid"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad autonomica": [
+        "Santiago Apóstol"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Madrid",
+        "Provincia": "Madrid"
+      }
+    }
+  ]
+}
