@@ -1,0 +1,3828 @@
+{
+  "Alfoz De Lloredo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO LABRADOR"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "SAN MARTIN DE CIGíœENZA"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Ampuero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "NATIVIDAD DE NTRA SRA. VIRGEN NIÑA DE AMPUERO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "SAN MATEO"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Anievas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "05/08/2026",
+      "Festividad local": [
+        "FESTIVIDAD DE LAS NIEVES"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Arenas Iguña": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "LA VIRGEN DEL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "VIRGEN DEL CAMINO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Argoños": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "VIRGEN DEL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "06/08/2026",
+      "Festividad local": [
+        "EL SALVADOR"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Arnuero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "LUNES DE PASCUA"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "SAN JUAN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Arredondo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "SAN JUAN"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "SAN PELAYO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Astillero, El": [
+    {
+      "Fecha": "19/03/2026",
+      "Festividad local": [
+        "SAN JOSE"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "SAN PEDRO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Barcena De Cicero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "19/06/2026",
+      "Festividad local": [
+        "CORPUS CHRISTI"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "SAN CIPRIANO"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Barcena De Pie De Concha": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "SAN PEDRO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "11/08/2026",
+      "Festividad local": [
+        "SAN LORENZO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Bareyo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "NTRA SRA. DEL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "05/09/2026",
+      "Festividad local": [
+        "SAN PEDRUCO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Cabezón De La Sal": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "13/08/2026",
+      "Festividad local": [
+        "NTRA SRA VIRGEN DEL CAMPO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "SAN MARTIN"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Cabezón De Liébana": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad autonomica": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Cabuerniga": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "NTRA. SRA. DEL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "22/10/2026",
+      "Festividad local": [
+        "FERIA DEL VALLE"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Camaleño": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "LA SANTUCA"
+      ]
+    },
+    {
+      "Fecha": "02/07/2026",
+      "Festividad local": [
+        "LA VIRGEN DE LA SALUD"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Camargo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "SAN JUAN"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "VIRGEN DEL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Campoo De Enmedio": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Campoo De Yuso": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "05/08/2026",
+      "Festividad local": [
+        "FESTIVIDAD DE LAS NIEVES"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Cartes": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "18/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "SAN CIPRIANO"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Castañeda": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "SAN PELAYO"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "SANTIAGO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Castro Urdiales": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "SAN JUAN"
+      ]
+    },
+    {
+      "Fecha": "26/06/2026",
+      "Festividad local": [
+        "SAN PELAYO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Cieza": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "LUNES DE PASCUA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Cillorigo De Liébana": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "LA SANTUCA"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "SANTIAGO APOSTOL"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Colindres": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "SAN JUAN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "SAN GINÉS"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Comillas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Corrales De Buelna, Los": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "SAN JUAN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "LOS REMEDIOS"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Corvera De Toranzo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "SAN ANTONIO DE PADUA"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "SANTIAGO APÓSTOL"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Entrambasaguas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "18/07/2026",
+      "Festividad local": [
+        "SANTA MARINA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "SAN VICENTE"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Escalante": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO LABRADOR"
+      ]
+    },
+    {
+      "Fecha": "22/05/2026",
+      "Festividad local": [
+        "VIRGEN DE LA CAMA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Guriezo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO LABRADOR"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "05/08/2026",
+      "Festividad local": [
+        "NTRA SRA. DE LAS NIEVES"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Hazas De Cesto": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "SANTIAGO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "SAN CIPICRIANO"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Hdad. Campoo De Suso": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "05/08/2026",
+      "Festividad local": [
+        "NTRA. SRA. DEL LABRA"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "SAN ROQUE"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Herrerías": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/08/2026",
+      "Festividad local": [
+        "SAN ROMAN"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Lamasón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "25/08/2026",
+      "Festividad local": [
+        "SAN BARTOLO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Laredo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "BATALLA DE FLORES"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "19/09/2026",
+      "Festividad local": [
+        "ULTIMO DESEMBARCO DE CARLOS V"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Limpias": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO LABRADOR"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/08/2026",
+      "Festividad local": [
+        "SANTA ISABEL"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Liérganes": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "SAN PEDRUCO"
+      ]
+    },
+    {
+      "Fecha": "11/08/2026",
+      "Festividad local": [
+        "SAN LORENZO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Luena": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "LOS REMEDIOS"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "15/10/2026",
+      "Festividad local": [
+        "SANTA TERESA"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Marina De Cudeyo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO LABRADOR"
+      ]
+    },
+    {
+      "Fecha": "22/07/2026",
+      "Festividad local": [
+        "SANTA MARIA MAGDALENA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Mazcuerras": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "SANTIAGO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Medio Cudeyo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "SANTIAGO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Meruelo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "07/08/2026",
+      "Festividad local": [
+        "SAN MAMES"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Miengo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "22/08/2026",
+      "Festividad local": [
+        "VIRGEN DEL MONTE"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "SANTOS MÁRTIRES"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Miera": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "SAN FERNANDO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "18/11/2026",
+      "Festividad local": [
+        "SAN ROMAN"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Molledo": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "SAN VICENTE"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "VIRGEN DEL CAMINO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Noja": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "29/08/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Penagos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "EL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "SAN VICENTE"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Pesagüero": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Pesquera": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "SAN ROQUE"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Peñarrubia": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "14/08/2026",
+      "Festividad local": [
+        "NTRA. SEÑORA"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "10/10/2026",
+      "Festividad local": [
+        "FERIA DE LA HERMIDA"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Piélagos": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "SAN ANTONIO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "VIRGEN DE VALENCIA"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Polaciones": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "02/09/2026",
+      "Festividad local": [
+        "SAN ANTOLIN"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Polanco": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "SAN PEDRO ADVINCULA"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Potes": [
+    {
+      "Fecha": "22/01/2026",
+      "Festividad local": [
+        "SAN VICENTE MÁRTIR"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "LA SANTUCA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Puente Viesgo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "23/05/2026",
+      "Festividad local": [
+        "LA VIRGEN DE GRACIA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "11/08/2026",
+      "Festividad local": [
+        "SAN LORENZO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Ramales De La Victoria": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "SAN VALENTIN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "04/09/2026",
+      "Festividad local": [
+        "EL MILAGRUCO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Rasines": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "SANTIAGO APOSTOL"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "SAN MARTIN"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Reinosa": [
+    {
+      "Fecha": "20/01/2026",
+      "Festividad local": [
+        "SAN SEBASTIAN"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Reocín": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "SAN CIPRIANO"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL ARCANGEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Ribamontán Al Mar": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO LABRADOR"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "NTRA. SEÑORA. DE LATAS"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Ribamontán Al Monte": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "EL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "SAN FELIX"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Rionansa": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "LA SALUD"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Riotuerto": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "SAN JUAN BAUTISTA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "SAN CIPRIANO"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Rozas De Valdearroyo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/04/2026",
+      "Festividad local": [
+        "LUNES DE PASCUA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "05/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Ruente": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "22/07/2026",
+      "Festividad local": [
+        "LA MAGDALENA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "12/09/2026",
+      "Festividad local": [
+        "SAN FRUCTUOSO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Ruesga": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "03/09/2026",
+      "Festividad local": [
+        "EL MILAGRO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Ruiloba": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/07/2026",
+      "Festividad local": [
+        "EL REMEDIO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "09/09/2026",
+      "Festividad local": [
+        "EL MOZUCU"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "San Felices De Buelna": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "SAN FELIX"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "SANTIAGO APÓSTOL"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "San Miguel De Aguayo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "27/06/2026",
+      "Festividad local": [
+        "OCTAVA DEL CORPUS CHRISTI"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "San Pedro Del Romeral": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "01/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "San Roque De Riomiera": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "22/04/2026",
+      "Festividad local": [
+        "LOS DOLORES"
+      ]
+    },
+    {
+      "Fecha": "29/05/2026",
+      "Festividad local": [
+        "LA ASCENSION"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Santa Cruz De Bezana": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "03/05/2026",
+      "Festividad local": [
+        "SANTA CRUZ"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "11/09/2026",
+      "Festividad local": [
+        "SAN JUDAS TADEO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Santa María De Cayón": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "SAN FERNANDO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Santander": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "09/06/2026",
+      "Festividad local": [
+        "VIRGEN DEL MAR"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "APÓSTOL SANTIAGO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Santillana Del Mar": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "27/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Santiurde De Reinosa": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/05/2026",
+      "Festividad local": [
+        "SAN FERNANDO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "NATIVIDAD DE NTRA. SEÑORA"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Santiurde De Toranzo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "EL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Santoña": [
+    {
+      "Fecha": "28/02/2026",
+      "Festividad local": [
+        "VIERNES DE CARNAVAL"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "NTRA SRA, DE LA VIRGEN DEL PUERTO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "San Vicente De La Barquera": [
+    {
+      "Fecha": "22/01/2026",
+      "Festividad local": [
+        "SAN VICENTE MÁRTIR"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "LA BARQUERA"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Saro": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "EL CAMINO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "29/09/2026",
+      "Festividad local": [
+        "SAN MIGUEL"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Selaya": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "SAN JUAN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "NTRA. SEÑORA DE SEPTIEMBRE"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Soba": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO LABRADOR"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "NTRA. SRA. DE IRIAS"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Solórzano": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "26/08/2026",
+      "Festividad local": [
+        "EL CRISTO DE BALAGUER"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "NTRA SRA. DEL MILAGRO DE FRESNEDO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Suances": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "EL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Tojos, Los": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "06/08/2026",
+      "Festividad local": [
+        "SAN JUSTO"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "07/10/2026",
+      "Festividad local": [
+        "FERIA COVALDRIZ"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Torrelavega": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "16/08/2026",
+      "Festividad local": [
+        "SAN ROQUE"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "SAN CIPRIANO"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Tresviso, La Villa De": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "01/12/2026",
+      "Festividad local": [
+        "Festivo Local"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Tudanca": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "24/06/2026",
+      "Festividad local": [
+        "SAN JUAN BAUTISTA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "05/08/2026",
+      "Festividad local": [
+        "NTRA SRA DE LAS NIEVES"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Udías": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "04/08/2026",
+      "Festividad local": [
+        "SAN ESTEBAN"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "VIRGEN DE LA CARIDAD"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Valdeolea": [
+    {
+      "Fecha": "12/02/2026",
+      "Festividad local": [
+        "SANTA EULALIA"
+      ]
+    },
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "16/07/2026",
+      "Festividad local": [
+        "EL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Valdeprado Del Río": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "22/09/2026",
+      "Festividad local": [
+        "SAN MATEO"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Valderredible": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "LA VELILLA"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Val De San Vicente": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "01/08/2026",
+      "Festividad local": [
+        "SAN PEDRUCU"
+      ]
+    },
+    {
+      "Fecha": "30/08/2026",
+      "Festividad local": [
+        "SANTOS MÁRTIRES"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Valdáliga": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "21/07/2026",
+      "Festividad local": [
+        "EL CARMEN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "11/11/2026",
+      "Festividad local": [
+        "SAN MARTIN"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Valle De Villaverde": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "SAN ANTONIO"
+      ]
+    },
+    {
+      "Fecha": "30/06/2026",
+      "Festividad local": [
+        "SAN PABLO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Vega De Liébana": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "02/05/2026",
+      "Festividad local": [
+        "LA SANTUCA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "10/10/2026",
+      "Festividad local": [
+        "EL PILAR"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Vega De Pas": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "29/05/2026",
+      "Festividad local": [
+        "LA ASCENSIÓN"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "NÂª SRA. DE LA VEGA"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Villacarriedo": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "SANTIAGO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "16/09/2026",
+      "Festividad local": [
+        "SAN CIPRIANO"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Villaescusa": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "25/07/2026",
+      "Festividad local": [
+        "SANTA ANA"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "08/09/2026",
+      "Festividad local": [
+        "NTRA SRA. DE SOCABARGA"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Villafufre": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "13/06/2026",
+      "Festividad local": [
+        "SAN ANTONIO (SAN MARTIN)"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "11/08/2026",
+      "Festividad local": [
+        "OCTAVA DEL CARMEN (RASILLO)"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ],
+  "Voto": [
+    {
+      "Fecha": "02/04/2026",
+      "Festividad autonomica": [
+        "Jueves Santo"
+      ]
+    },
+    {
+      "Fecha": "15/05/2026",
+      "Festividad local": [
+        "SAN ISIDRO"
+      ]
+    },
+    {
+      "Fecha": "28/07/2026",
+      "Festividad autonomica": [
+        "Dí­a de las Instituciones de Cantabria"
+      ]
+    },
+    {
+      "Fecha": "15/09/2026",
+      "Festividad autonomica": [
+        "La Bien Aparecida"
+      ]
+    },
+    {
+      "Fecha": "24/09/2026",
+      "Festividad local": [
+        "LA MERCED"
+      ]
+    },
+    {
+      "Información del municipio": {
+        "Comunidad Autónoma": "Cantabria",
+        "Provincia": "Cantabria"
+      }
+    }
+  ]
+}
